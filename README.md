@@ -17,7 +17,7 @@ cd fancy_job
 python update_number.py
 ```
 
-3. Optional: If you prefer to ensure the script runs at a fixed time initially, you can manually set up a cron job:
+Optional: If you prefer to ensure the script runs at a fixed time initially, you can manually set up a cron job:
 
 ```bash
 crontab -e
